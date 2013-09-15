@@ -1,0 +1,1 @@
+This is a Ruby program that solves linear equations of the form 'ax+b=c'.  The program is run by typing ruby solver.rb from the lib folder.  The user will be prompted to enter a linear equation and the answer should be printed out.  Type just 'q' to quit.
